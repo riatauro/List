@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.showlist" >
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <activity
+            android:name="com.example.user.showlist.Splash_Screen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+      <activity android:name=".MainActivity"
+          android:theme="@android:style/Theme.NoTitleBar">
+
+          </activity>
+
+  <activity android:name=".Another"
+  android:theme="@android:style/Theme.NoTitleBar">
+  </activity>
+        <activity android:name=".SingleActivity"
+            android:theme="@android:style/Theme.NoTitleBar">
+
+            </activity>
+
+
+        <activity android:name=".cartoon"
+            android:theme="@android:style/Theme.NoTitleBar">
+            </activity>
+   <activity android:name=".english"
+       android:theme="@android:style/Theme.NoTitleBar">
+
+       </activity>
+        <activity android:name=".Show11"
+            android:theme="@android:style/Theme.NoTitleBar">
+
+            </activity>
+        <provider
+            android:name=".MyProvider"
+            android:authorities="com.example.user.showlist.MyProvider">
+        </provider>
+
+        <activity android:name=".sports"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+        <activity android:name=".new1"
+            android:theme="@android:style/Theme.NoTitleBar">
+
+            </activity>
+        <activity android:name=".music"
+            android:theme="@android:style/Theme.NoTitleBar"></activity>
+    </application>
+
+</manifest>

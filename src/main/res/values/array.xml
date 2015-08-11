@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="show_names">
+        <item>axn</item>
+        <item>comedy-central</item>
+        <item>star-movies</item>
+        <item>star-world</item>
+        <item>hbo</item>
+        <item>food-food</item>
+        <item>wb</item>
+        <item>world-movies</item>
+        <item>vh1</item>
+        <item>colors</item>
+        <item>sony-tv</item>
+        <item>zee-tv</item>
+        <item>star-plus-hd</item>
+        <item>life-ok</item>
+        <item>sony-max</item>
+        <item>zee-cinema</item>
+        <item>9xm</item>
+        <item>channel-[v]</item>
+        <item>mtv</item>
+        <item>aaj-tak</item>
+        <item>aljazeera</item>
+        <item>bbc-world-news</item>
+        <item>dd-news</item>
+        <item>headlines-today</item>
+        <item>ibn-7</item>
+        <item>ndtv-24x7</item>
+        <item>newsx</item>
+        <item>times-now</item>
+        <item>zee-news</item>
+        <item>animax</item>
+        <item>cartoon-network</item>
+        <item>chintu-tv</item>
+        <item>disney-channel</item>
+        <item>disney-xd</item>
+        <item>hungama-tv</item>
+        <item>pogo</item>
+        <item>dd-sports</item>
+        <item>neo-sports</item>
+        <item>star-cricket</item>
+        <item>star-sports-1</item>
+        <item>star-sports-2</item>
+        <item>star-sports-4</item>
+        <item>ten-cricket</item>
+        <item>9xm</item>
+        <item>b4u-music</item>
+        <item>bindaas-play</item>
+        <item>music-xpress</item>
+        <item>mtv</item>
+        <item>vh1</item>
+        <item>zoom</item>
+
+    </string-array>
+</resources>
